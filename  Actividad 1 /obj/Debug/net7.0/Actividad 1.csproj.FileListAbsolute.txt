@@ -1,0 +1,15 @@
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /bin/Debug/net7.0/Actividad 1
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /bin/Debug/net7.0/Actividad 1.deps.json
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /bin/Debug/net7.0/Actividad 1.runtimeconfig.json
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /bin/Debug/net7.0/Actividad 1.dll
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /bin/Debug/net7.0/Actividad 1.pdb
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.csproj.AssemblyReference.cache
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.AssemblyInfoInputs.cache
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.AssemblyInfo.cs
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.csproj.CoreCompileInputs.cache
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.dll
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/refint/Actividad 1.dll
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.pdb
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/Actividad 1.genruntimeconfig.cache
+/Users/itzcoatl/RiderProjects/ Actividad 1 / Actividad 1 /obj/Debug/net7.0/ref/Actividad 1.dll
